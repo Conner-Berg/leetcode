@@ -1,3 +1,5 @@
+// 2634. Filter Elements from Array
+
 function filter(arr, fn) {
 	let filteredArr = [];
 	for (let i = 0; i < arr.length; i++) {

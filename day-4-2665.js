@@ -1,3 +1,5 @@
+// 2665. Counter II
+
 const createCounter = function (init) {
 	let current = init;
 
